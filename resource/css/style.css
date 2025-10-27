@@ -202,8 +202,10 @@ small {
   * {
     color: var(--white);
   }
-  pre {
-    white-space: pre-line;
+  pre,
+  .pre {
+    /* white-space: pre-line; */
+    word-break: keep-all;
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     line-height: 30px;
