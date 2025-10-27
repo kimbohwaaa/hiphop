@@ -1,9 +1,8 @@
 :root {
-    font-size: 16px;
-    --black: #000;
-    --white: #fff;
-    --mainClr: #391212;
-    --mainClrLight: #74342b;
-    --skyblue: #2dace0;
-    
+  font-size: 16px;
+  --black: #000;
+  --white: #fff;
+  --mainClr: #391212;
+  --mainClrLight: #5a000f;
+  --skyblue: #2dace0;
 }
